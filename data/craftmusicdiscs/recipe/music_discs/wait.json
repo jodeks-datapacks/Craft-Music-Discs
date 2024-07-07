@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+      " # ",
+      "#L#",
+      " # "
+  ],
+  "key": {
+      "#": {
+          "item": "minecraft:flint"
+      },
+      "L": {
+          "item": "minecraft:lapis_lazuli"
+      }
+  },
+  "result": {
+      "id": "minecraft:music_disc_wait",
+      "count": 1
+  }
+}

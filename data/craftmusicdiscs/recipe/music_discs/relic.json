@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+      " # ",
+      "#D#",
+      " # "
+  ],
+  "key": {
+      "#": {
+          "item": "minecraft:brick"
+      },
+      "D": {
+          "item": "minecraft:diamond"
+      }
+  },
+  "result": {
+      "id": "minecraft:music_disc_relic",
+      "count": 1
+  }
+}

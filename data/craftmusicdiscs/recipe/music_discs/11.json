@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+      " # ",
+      "#D#",
+      " # "
+  ],
+  "key": {
+      "#": {
+          "item": "minecraft:flint"
+      },
+      "D": {
+          "item": "minecraft:dried_kelp"
+      }
+  },
+  "result": {
+      "id": "minecraft:music_disc_11",
+      "count": 1
+  }
+}
