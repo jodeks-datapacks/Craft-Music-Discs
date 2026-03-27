@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " # ",
+    "#L#",
+    " # "
+  ],
+  "key": {
+    "#": "minecraft:chicken",
+    "L": "minecraft:lava_bucket"
+  },
+  "result": {
+    "id": "minecraft:music_disc_lava_chicken",
+    "count": 1
+  }
+}

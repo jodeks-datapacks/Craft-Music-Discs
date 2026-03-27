@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " _ ",
+    "_S_",
+    " _ "
+  ],
+  "key": {
+    "_": "minecraft:cut_copper_slab",
+    "S": "minecraft:shroomlight"
+  },
+  "result": {
+    "id": "minecraft:music_disc_creator_music_box",
+    "count": 1
+  }
+}

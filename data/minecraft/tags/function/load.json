@@ -1,0 +1,6 @@
+{
+  "values": [
+    "craft_music_discs:app/setup",
+    "craft_music_discs:app/load_message"
+  ]
+}
