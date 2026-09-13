@@ -9,12 +9,6 @@
       {
         "text": "\"Craft Music Discs\" (craft_music_discs)"
       },
-      "\n",
-      {
-        "translate": "craft_music_discs.description",
-        "fallback": "Adds a crafting recipe for every music disc",
-        "color": "#aaaaaa"
-      },
       "\n\n",
       {
         "translate": "jodek.version",
@@ -24,7 +18,7 @@
         "text": " "
       },
       {
-        "text": "2.0.2",
+        "text": "2.1.0",
         "color": "#55ff55"
       },
 
@@ -39,15 +33,6 @@
       {
         "text": "Jodek",
         "color": "#ffff55"
-      }
-    ]
-  },
-  "overlays": {
-    "entries": [
-      {
-        "directory": "overlay-107.1",
-        "min_format": 107,
-        "max_format": 999
       }
     ]
   }
